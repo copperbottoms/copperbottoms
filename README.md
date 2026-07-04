@@ -1,3 +1,8 @@
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=baskerville&size=30&duration=3000&pause=900&color=50DABB&center=true&width=450&lines=%231+Robots+fan+ever!!!" alt="Typing SVG" /></a>
 <p align="center"> <img width="741" height="915" alt="image" src="https://github.com/user-attachments/assets/c0e14f50-7843-4b0c-8119-e80be7b02770" />
 <p align="center">  <a href="https://pronouns.cc/@copperbottoms" target="_blank">prns.cc</a>  <a href="https://www.last.fm/user/shmeebz" target="_blank">last.fm</a>  <a href="https://britpop.atabook.org" target="_blank">新book</a> <a href="https://copperbottoms.straw.page" target="_blank">straw</a> 
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ajqe2s5sfc6f6zpnj3s7mkta2m&cover_image=true&theme=natemoo-re&show_offline=false&background_color=8dffdd&interchange=false&profanity=false&hide_remaster=false&bar_color=8dffdd&bar_color_cover=false">
+  </a>
+</p>
