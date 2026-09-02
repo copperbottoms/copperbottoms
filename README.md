@@ -16,4 +16,4 @@ $\color{#A29BA0}- 15 dni/iwec$
 <p align="center"> <p align="center">
 
 
-![My scrobbles](https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=shmeebz)
+![](https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=shmeebz&art&theme=catppuccin&bg_color=48302F&count=8)
