@@ -20,4 +20,4 @@ $\color{#A29BA0}- 15 dni/iwec$
 
   
 
-![](https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=shmeebz&art&theme=catppuccin&bg_color=846F73&count=8)
+![](https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=shmeebz&theme=transparent&count=8)
