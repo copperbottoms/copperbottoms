@@ -12,5 +12,5 @@ $\color{#A29BA0}- 15 dni/iwec$
 
 
 
-<p align="center">  <a href="https://pronouns.cc/@copperbottoms" target="_blank">prns.cc</a> <a href="https://copperbottoms.atabook.org" target="_blank">新book</a> <a href="https://copperbottoms.straw.page" target="_blank">straw</a> 
+<p align="center">  <a href="https://pronouns.cc/@copperbottoms" target="_blank">prns.cc</a> <a href="https://copperbottoms.atabook.org" target="_blank">新book</a> <a href="https://copperbottomzz.straw.page" target="_blank">straw</a> 
 <p align="center"> <p align="center">
