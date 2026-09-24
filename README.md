@@ -10,4 +10,4 @@ $\color{#A29BA0}intp-t$ $\color{#A29BA0}☆$ $\color{#A29BA0}british$
 
 $\color{#A29BA0}- 15 dni/iwec$
 
-<p align="center">  <a href="https://pronouns.cc/@copperbottoms" target="_blank">prns.cc</a> <a href="https://copperbottoms.atabook.org" target="_blank">新book</a> <a href="https://rentry.co/copperbottoms" target="_blank">rentry</a>
+<p align="center">  <a href="https://pronouns.cc/@copperbottoms" target="_blank">prns.cc</a> <a href="https://copperbottoms.atabook.org" target="_blank">新book</a> <a href="https://rentry.co/copperbottoms" target="_blank">rentry</a> <a href="https://listography.com/copperbottoms?m=0580652416" target="_blank">listography</a>
