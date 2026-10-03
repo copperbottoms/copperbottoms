@@ -4,10 +4,10 @@
 
 ‎ ‎ 
 ‎
-$\color{#A29BA0}male/unlabeled$ $\color{#A29BA0}☆$ $\color{#A29BA0}17$
+$\color{#A29BA0}male$ $\color{#A29BA0} ,,$ $\color{#A29BA0}unlabeled$ $\color{#A29BA0}✦$ $\color{#A29BA0}17$
 
-$\color{#A29BA0}intp-t$ $\color{#A29BA0}☆$ $\color{#A29BA0}british$
+$\color{#A29BA0}intp-t$ $\color{#A29BA0}✦$ $\color{#A29BA0}british$
 
-$\color{#A29BA0}- 15 dni/iwec$
+$\color{#A29BA0}- 15$ $\color{#A29BA0}dni/iwec$
 
 <p align="center">  <a href="https://pronouns.cc/@copperbottoms" target="_blank">prns.cc</a> <a href="https://copperbottoms.atabook.org" target="_blank">新book</a> <a href="https://rentry.co/copperbottoms" target="_blank">rentry</a> <a href="https://listography.com/copperbottoms?m=0580652416" target="_blank">listography</a>
